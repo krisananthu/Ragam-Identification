@@ -14,25 +14,4 @@ for l = 1:L
 end
 
 log_p_O_model = sum(log_p_O_model_multiple);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 end
